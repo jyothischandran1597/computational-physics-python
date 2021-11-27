@@ -1,0 +1,16 @@
+MAIN TOPICS:
+
+1. Need for computational Physics
+2. Working Program, Testing the code, assessing errors
+3. Programming guidelines
+4. Brief intro to types of programming languages, and what are they used for. Examples like, Matlab, Mathematica, Octave, Fortran, Python, C++.
+5. Python: Variables, loops, functions, python libraries (numpy, scipy, matplotlib), visualization,etc.
+6. (Maybe) Class structure in python.
+
+DETAILS:
+
+
+
+
+REFERENCES:
+
